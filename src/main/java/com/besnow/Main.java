@@ -13,6 +13,8 @@ public class Main {
 
         initListeners();
 
+        InterfaceService.readyMessage();
+
     }
 
     private static void initListeners() {

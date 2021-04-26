@@ -80,4 +80,8 @@ public class InterfaceService {
     public static String getPath6() {
         return path6;
     }
+
+    public static void readyMessage() {
+        System.out.println("Ready!");
+    }
 }
