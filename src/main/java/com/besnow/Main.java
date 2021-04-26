@@ -5,7 +5,7 @@ import com.besnow.service.InterfaceService;
 
 public class Main {
 
-    public static String VERSION = "0.1.0";
+    public static String VERSION = "0.1.1";
 
     public static void main(String[] args) {
 
